@@ -263,19 +263,19 @@
 		{
 			"name": "terminal.text",
 			"style": {
-				"fontFamily": "Cascadia Mono Light"
+				"fontFamily": "Cascadia Mono Light, Cascadia Mono"
 			}
 		},
 		{
 			"name": "terminal.text.1",
 			"style": {
-				"fontFamily": "Cascadia Mono Light"
+				"fontFamily": "Cascadia Mono Light, Cascadia Mono"
 			}
 		},
 		{
 			"name": "terminal.text.2",
 			"style": {
-				"fontFamily": "Cascadia Mono Light"
+				"fontFamily": "Cascadia Mono Light, Cascadia Mono"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"style": {
 				"foreground": "#ebdbb2",
 				"background": "#282828",
-				"fontFamily": "Cascadia Mono Light",
+				"fontFamily": "Cascadia Mono Light, Cascadia Mono",
 				"fontSize": 10
 			}
 		},

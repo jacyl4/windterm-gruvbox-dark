@@ -61,7 +61,7 @@
 /*** symbols ***/
 
 .symbol {
-	font-family: "Cascadia Mono Light";
+	font-family: "Cascadia Mono Light, Cascadia Mono";
 	font-size: 255.212px;
 	font-weight: normal;
 	fill: #ebdbb2;
