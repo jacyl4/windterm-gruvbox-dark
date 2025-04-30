@@ -336,8 +336,8 @@
 		{
 			"name": "text.selection",
 			"style": {
-				"foreground": "#504945",
-				"background": "#504945",
+				"foreground": "#32302f",
+				"background": "#32302f",
 				"decorationStyle": "roundBox"
 			}
 		},
