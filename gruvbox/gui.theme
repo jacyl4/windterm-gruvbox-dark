@@ -4,7 +4,7 @@ ApplicationPalette {
 }
 
 QWidget {
-	font-family: "Cascadia Mono Light, Cascadia Mono";
+	font-family: "GeistMono Nerd Font";
 	font-size: 9pt;
 	background-color: #282828;
 	color: #ebdbb2;
@@ -390,7 +390,7 @@ QToolButton::menu-indicator {
 }
 
 QToolTip {
-	font-family: "Cascadia Mono Light, Cascadia Mono";
+	font-family: "GeistMono Nerd Font";
 	color: #ebdbb2;
 	background-color: #3c3836;
 	border: 1px solid #1d2021;
