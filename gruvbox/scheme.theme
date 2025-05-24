@@ -263,19 +263,19 @@
 		{
 			"name": "terminal.text",
 			"style": {
-				"fontFamily": "GeistMono Nerd Font Mono"
+				"fontFamily": "GeistMono Nerd Font"
 			}
 		},
 		{
 			"name": "terminal.text.1",
 			"style": {
-				"fontFamily": "GeistMono Nerd Font Mono"
+				"fontFamily": "GeistMono Nerd Font"
 			}
 		},
 		{
 			"name": "terminal.text.2",
 			"style": {
-				"fontFamily": "GeistMono Nerd Font Mono"
+				"fontFamily": "GeistMono Nerd Font"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"style": {
 				"foreground": "#ebdbb2",
 				"background": "#282828",
-				"fontFamily": "GeistMono Nerd Font Mono",
+				"fontFamily": "GeistMono Nerd Font",
 				"fontSize": 10
 			}
 		},
